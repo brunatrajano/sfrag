@@ -67,10 +67,10 @@ Canyon is a metric developed for this project. Its objective is to penalize with
 For each pair of atoms, the error is calculated and added to a variable. At the end of the fragment/sphere, the value is normalized by the number of pairs compared. So the maximum value is the constant error.
 
 
-![](https://www.ime.usp.br/~rvargas/sfrag_canyon_form_en.gif)
+![](https://www.ime.usp.br/~rvargas/sfrag/sfrag_canyon_form_en.gif)
 
 
-![](https://www.ime.usp.br/~rvargas/sfrag_canyon_en.png)
+![](https://www.ime.usp.br/~rvargas/sfrag/sfrag_canyon_en.png)
 
 ### RMSD
 Check [Wikipedia](https://en.wikipedia.org/wiki/Root-mean-square_deviation_of_atomic_positions) for more info.
